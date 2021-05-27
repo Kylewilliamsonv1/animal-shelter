@@ -1,0 +1,26 @@
+.column1, .column2, .column3, .column4, .column5 {
+  width: 18%;
+  float:left;
+  border: 2px solid blue;
+  border-radius: 1em;
+}
+
+div p {
+  font-family: sans-serif;
+}
+
+img {
+  width:90%;
+}
+
+.column1 img {
+  border: 2px solid brown;
+}
+
+.pets {
+  background-color: aquamarine;
+}
+
+.aboutus {
+  margin-top:30%;
+}

@@ -40,9 +40,10 @@ img {
 /* html, body, .container, .row {
   height: 100%;
 } */
-.col-6 {
+.col-12 {
   background-color: grey;
   padding: 10px;
+  text-align:center;
 }
 #three {
   background-color: pink;
@@ -63,5 +64,6 @@ img {
 #cutemonkey {
   border-radius: 50px;
   border: 10px dotted darkmagenta;
+  height: 30%;
 }
 

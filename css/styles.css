@@ -29,3 +29,39 @@ img {
   margin:auto;
   padding-top: 20%;
 }
+.blockquote-footer {
+  font-size: x-large;
+
+}
+
+
+
+/* for bootstrap.html a comment that doesn't do any code */
+/* html, body, .container, .row {
+  height: 100%;
+} */
+.col-6 {
+  background-color: grey;
+  padding: 10px;
+}
+#three {
+  background-color: pink;
+}
+#nine {
+  background-color: black;
+  color: white;
+}
+.abt {
+  margin: auto;
+  width: 30%;
+  padding: 1em;
+}
+.abt h3 {
+  text-align: center;
+}
+
+#cutemonkey {
+  border-radius: 50px;
+  border: 10px dotted darkmagenta;
+}
+
